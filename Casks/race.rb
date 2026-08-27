@@ -1,6 +1,9 @@
+# The cask published to the exlee/homebrew-race tap. Edit it here; the release
+# workflow rewrites only the two lines below and pushes the result, so a
+# hand-edit made in the tap is lost at the next release.
 cask "race" do
-  version "1.0.27"
-  sha256 "59fd6842a1d7f9a877dfc6d38b2fcc395ba50b626e30858cda6b5e794f138fef"
+  version "1.0.29"
+  sha256 "8fd8f5e1b1c3e500a053decf4a78aa19523fec2781b84e3173b49de244bb29c8"
 
   url "https://downloads.race-term.com/releases/v#{version}/RACE.zip"
   name "RACE"
