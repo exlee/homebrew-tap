@@ -2,8 +2,8 @@
 # workflow rewrites only the two lines below and pushes the result, so a
 # hand-edit made in the tap is lost at the next release.
 cask "race" do
-  version "1.1.4"
-  sha256 "4c984409be4a318bcee204f38ecd7e5b78f4ed4eb80822df02d22dce68cf59c8"
+  version "1.1.5"
+  sha256 "bce76a1e03a53f7afdaaa46faab431c0ba7f2f94c257dc7bad1f5d89f220914d"
 
   url "https://downloads.race-term.com/releases/v#{version}/RACE.zip"
   name "RACE"
